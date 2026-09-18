@@ -7,10 +7,10 @@ Este repositório reúne cadernos de análise de dados, scripts em Python e docu
 ## 👨‍💻 Sobre o Autor
 
 **Anderson Silva de Araújo**  
-Doutorando e Mestre em Informação e Comunicação em Saúde (**PPGICS/Fiocruz**), com período sanduíche na **Universidade de Coimbra**[cite: 2]. Bacharel em Biblioteconomia (UNIRIO) e Letras (UERJ)[cite: 2]. Atua em Ciência da Informação com ênfase em dados de pesquisa na saúde, metadados de proveniência e Ciência Aberta[cite: 2].
+Doutorando e Mestre em Informação e Comunicação em Saúde (**PPGICS/Fiocruz**), com período sanduíche na **Universidade de Coimbra** Bacharel em Biblioteconomia (UNIRIO) e Letras (UERJ). Atua em Ciência da Informação com ênfase em dados de pesquisa na saúde, metadados de proveniência e Ciência Aberta.
 
-* 🌐 **ORCID:** [0000-0001-5905-8213](https://orcid.org/0000-0001-5905-8213)[cite: 2]
-* 📄 **Currículo Lattes:** [Aceder ao Lattes](http://lattes.cnpq.br/3170428254350334)[cite: 2]
+* 🌐 **ORCID:** ORCID: [0000-0001-5905-8213](https://orcid.org/0000-0001-5905-8213)
+* 📄 **Currículo Lattes:** Currículo Lattes: [Aceder ao Lattes](http://lattes.cnpq.br/3170428254350334)
 * 💼 **LinkedIn:** [Perfil Profissional](https://www.linkedin.com/in/anderson-silva-de-araujo)
 
 ---
